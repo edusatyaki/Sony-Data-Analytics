@@ -3,6 +3,8 @@
 ## Project Overview
 This dataset provides a detailed log of sales transactions for Sony's premium headset lineup from **January 2023 through September 2025**. It is designed to support retail analytics, financial forecasting, and marketing ROI (Return on Investment) modeling.
 
+![Dataset Analysis Screenshot](1.png)
+
 ## File Details
 - **Filename:** `sony_headset_sales_1000_rows.csv`
 - **Total Records:** 1,045 (including ~1,000 core transactions)
